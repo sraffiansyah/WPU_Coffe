@@ -203,7 +203,6 @@ body {
         transform: scaleX(0.2);
     }
 }
-
 /* mobile */
     @media (max-width: 450px){
         html{
